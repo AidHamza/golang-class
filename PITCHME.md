@@ -7,9 +7,9 @@ Hamza AID, Schibsted Morocco
 
 #HSLIDE
 
-#HSLIDE
-
 # Go Programming language
+
+#HSLIDE
 
 - Created in 2007, launched in 2009 by Roke pike at Google
 - Its not object-oriented programming or functional programming
@@ -18,8 +18,6 @@ Hamza AID, Schibsted Morocco
 - Native HTTP support
 - Highly performante
 - Compiled & Cross platform
-
-#HSLIDE
 
 #HSLIDE
 
