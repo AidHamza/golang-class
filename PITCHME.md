@@ -7,7 +7,7 @@ Hamza AID, Schibsted Morocco
 
 #HSLIDE
 
-# Go Programming language
+## Go Programming language
 
 #HSLIDE
 
@@ -21,13 +21,25 @@ Hamza AID, Schibsted Morocco
 
 #HSLIDE
 
-# Go plugins
-
-Gildas Chabot, leboncoin
+### Interesting features
+- Cool Package system
+- Concurrency: goroutines and channels
+- Integrated testing kit
 
 #HSLIDE
 
-## Demo!
+### Let's discover
+#### Hello world app
+
+#HSLIDE
+
+### Now
+#### Concurency + Queueing turn
+
+#HSLIDE
+
+### Let's play now with
+#### Golang plugins
 
 #HSLIDE
 
@@ -125,6 +137,4 @@ v, ok = *vs.(*int)
 ## Thank you
 
 Questions?
-
-Find the code and slides on Github: https://github.com/GildasCh/go-plugins-demo
 
