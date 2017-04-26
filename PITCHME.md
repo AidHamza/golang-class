@@ -47,6 +47,10 @@ Hamza AID, Schibsted Morocco
 - Asynchronous Communication
 
 #HSLIDE
+#### If you have your laptop browse
+http://bit.ly/go-routines
+
+#HSLIDE
 
 ### Let's play now with
 #### Golang plugins
