@@ -1,5 +1,30 @@
 #HSLIDE
 
+# Avito Goto;
+## Let's discover Golang 
+
+Hamza AID, Schibsted Morocco
+
+#HSLIDE
+
+#HSLIDE
+
+# Go plugins
+
+Gildas Chabot, leboncoin
+
+#HSLIDE
+
+#HSLIDE
+
+# Go plugins
+
+Gildas Chabot, leboncoin
+
+#HSLIDE
+
+#HSLIDE
+
 # Go plugins
 
 Gildas Chabot, leboncoin
