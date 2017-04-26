@@ -27,14 +27,6 @@ Gildas Chabot, leboncoin
 
 #HSLIDE
 
-#HSLIDE
-
-# Go plugins
-
-Gildas Chabot, leboncoin
-
-#HSLIDE
-
 ## Demo!
 
 #HSLIDE
