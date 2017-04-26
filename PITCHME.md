@@ -38,6 +38,16 @@ Hamza AID, Schibsted Morocco
 
 #HSLIDE
 
+### Queuing excels at
+- Decoupling
+- Redundancy (Escape the fail)
+- Scalability
+- Resiliency (Failover easily when infra fails)
+- Ordering Guarantees (Maybe FIFO)
+- Asynchronous Communication
+
+#HSLIDE
+
 ### Let's play now with
 #### Golang plugins
 
