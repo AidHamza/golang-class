@@ -9,9 +9,15 @@ Hamza AID, Schibsted Morocco
 
 #HSLIDE
 
-# Go plugins
+# Go Programming language
 
-Gildas Chabot, leboncoin
+- Created in 2007, launched in 2009 by Roke pike at Google
+- Its not object-oriented programming or functional programming
+- Highly strict
+- Concurrency
+- Native HTTP support
+- Highly performante
+- Compiled & Cross platform
 
 #HSLIDE
 
