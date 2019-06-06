@@ -1,9 +1,9 @@
 #HSLIDE
 
-# Avito Goto;
+# Hello World;
 ## Let's discover Golang 
 
-Hamza AID, Schibsted Morocco
+Hamza AID, Barcelona, Schibsted Media Group
 
 #HSLIDE
 
